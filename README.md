@@ -1,6 +1,5 @@
-# 💫 About Me:
-"Students who are passionate about learning PHP and Python programming | Want to develop coding skills and be part of the tech community | "
-
+# 🦖 About Me:
+Hello! I’m Ahmad Imtiyaz Najih, a 4th-semester student at Universitas Veteran Semarang. I have a passion for experimenting through trial and error in programming and love exploring new technologies. My preferred programming languages are PHP and Python. I’m eager to continue learning to enhance and sharpen my skills. I believe that every challenge is an opportunity to grow. Let’s share and learn together!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/prince_yazna) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/xyimsimi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmad_imtiyaz04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ahmad_Imtiyaz) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Imtiyaz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@princeeeyzn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iimtiyaz_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Yazna) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imtiyaznajih8@gmail.com) 
