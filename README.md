@@ -15,4 +15,10 @@ Hello! I’m Ahmad Imtiyaz Najih, a 5th-semester student at Universitas Veteran 
 [![](https://visitcount.itsvg.in/api?id=ahmad-imtiyaz&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-aku udah punya ini mungkin kau ada saran perbaikan atau tambahan agar lebih baik atau lebih bagus untuk dilihat gitu?,
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-imtiyaz/ahmad-imtiyaz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad-imtiyaz/ahmad-imtiyaz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmad-imtiyaz/ahmad-imtiyaz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
