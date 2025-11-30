@@ -6,7 +6,7 @@ Hello! I’m Ahmad Imtiyaz Najih, a 5th-semester student at Universitas Veteran 
 
 
 ## 💻 Tech Stack
-<div align="center">
+
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" />
 <img width="20" />
@@ -14,33 +14,27 @@ Hello! I’m Ahmad Imtiyaz Najih, a 5th-semester student at Universitas Veteran 
 <img width="20" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
 
-</div>
 
 ## 📊 GitHub Stats
 <div align="center">
 
-  <!-- Main Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ahmad-imtiyaz&show_icons=true&theme=radical&hide_border=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmad-imtiyaz&show_icons=true&theme=radical&hide_border=true" 
     height="160px" 
-    alt="GitHub Stats"
   />
 
-  <!-- Streak Stats -->
   <img 
-    src="https://streak-stats.demolab.com?user=ahmad-imtiyaz&theme=radical&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-imtiyaz&theme=radical&hide_border=true" 
     height="160px" 
-    alt="Streak Stats"
   />
 
-  <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-imtiyaz&layout=compact&theme=radical&hide_border=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ahmad-imtiyaz&layout=compact&theme=radical&hide_border=true" 
     height="160px" 
-    alt="Top Languages"
   />
 
 </div>
+
 
 
 
