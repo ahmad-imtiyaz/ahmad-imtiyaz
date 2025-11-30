@@ -1,17 +1,45 @@
-# 🦖 About Me:
-Hello! I’m Ahmad Imtiyaz Najih, a 5th-semester student at Universitas Veteran Semarang. I have a passion for experimenting through trial and error in programming and love exploring new technologies. My preferred programming languages are PHP and Python. I’m eager to continue learning to enhance and sharpen my skills. I believe that every challenge is an opportunity to grow. Let’s share and learn together!
+🌙 Imtiyaz — Web Developer (PHP/Laravel)
+Focused • Consistent • Building for the Future
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-imtiyaz-3531532b5/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/imtiyaznajih) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@princeeeyzn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Iimtyaz_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@imtiyaznajih9686) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imtiyaznajih8@gmail.com) 
+🔭 Laravel & PHP Developer
+🖥️ Passionate about Back-End & Web App Development
+🔥 Currently improving my skills through real-world projects
+
+</div>
+
+🦖 About Me
+
+Hi! I’m Ahmad Imtiyaz Najih, a 5th-semester Informatics student at Universitas Veteran Semarang.
+Saya suka belajar dengan cara coba → gagal → perbaiki, karena dari situlah skill berkembang paling cepat.
+
+Saya fokus membangun proyek dengan:
+- PHP & Laravel
+- MySQL
+- Bootstrap / Tailwind (beginner)
+- Clean & structured coding
+
+Saya percaya:
+"Skill grows when consistency meets curiosity."
+
+#🌐 Socials:
+<p align="left"> <a href="https://www.linkedin.com/in/ahmad-imtiyaz-3531532b5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://pinterest.com/imtiyaznajih"><img src="https://img.shields.io/badge/Pinterest-BE0000?style=for-the-badge&logo=pinterest&logoColor=white" /></a> <a href="https://tiktok.com/@princeeeyzn"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a> <a href="https://x.com/Iimtyaz_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://www.youtube.com/@imtiyaznajih9686"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> <a href="mailto:imtiyaznajih8@gmail.com"><img src="https://img.shields.io/badge/Email-CA302D?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
 
 # 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmad-imtiyaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ahmad-imtiyaz&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-imtiyaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=ahmad-imtiyaz&theme=github_dark&hide_border=true&show_icons=true&count_private=true" /> <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=ahmad-imtiyaz&theme=github-dark&hide_border=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-imtiyaz&theme=github_dark&hide_border=true&layout=compact" /> </div>
 
+🚀 What I’m Focusing On
+- Building more projects with Laravel + MySQL
+- Strengthening backend logic & clean architecture
+- Learning API development (RESTful)
+- Improving UI using Bootstrap & Tailwind
 ---
+📬 Contact
+Feel free to reach out if you want to collaborate or discuss tech!
+<div align="center">
+</div>
 [![](https://visitcount.itsvg.in/api?id=ahmad-imtiyaz&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
