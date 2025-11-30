@@ -5,37 +5,40 @@ Hello! I’m Ahmad Imtiyaz Najih, a 5th-semester student at Universitas Veteran 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-imtiyaz-3531532b5/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/imtiyaznajih) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@princeeeyzn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Iimtyaz_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@imtiyaznajih9686) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imtiyaznajih8@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/imtiyaz_3623110027/)
 
 
-## 💻 Tech Stack  
+## 💻 Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" />
-<img width="20" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50" />
-<img width="20" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
+
+</div>
 
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
-  <!-- Stats Card -->
   <img 
-    src="https://github-readme-stats-ruby-one.vercel.app/api?username=ahmad-imtiyaz&show_icons=true&theme=radical&hide_border=true" 
-    height="160px"
+    src="https://github-readme-stats.vercel.app/api?username=ahmad-imtiyaz&show_icons=true&theme=radical&hide_border=true" 
+    height="160"
   />
 
-  <!-- Streak Card (server paling stabil) -->
   <img 
-    src="https://streak-stats.demolab.com?user=ahmad-imtiyaz&theme=radical&hide_border=true" 
-    height="160px"
+    src="https://streak-stats.demolab.com/?user=ahmad-imtiyaz&theme=radical&hide_border=true" 
+    height="160"
   />
 
-  <!-- Top Languages (proxy fix anti error) -->
   <img 
-    src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=ahmad-imtiyaz&layout=compact&theme=radical&hide_border=true"
-    height="160px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-imtiyaz&layout=compact&theme=radical&hide_border=true" 
+    height="160"
   />
 
 </div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmad-imtiyaz&icon=0&color=1)](https://visitcount.itsvg.in)
