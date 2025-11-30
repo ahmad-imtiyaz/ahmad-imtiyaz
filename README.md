@@ -6,12 +6,7 @@ Hello! I’m Ahmad Imtiyaz Najih, a 5th-semester student at Universitas Veteran 
 
 ## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://unpkg.com/simple-icons@v9/icons/php.svg" height="50" />
-  <img src="https://unpkg.com/simple-icons@v9/icons/laravel.svg" height="50" />
-  <img src="https://unpkg.com/simple-icons@v9/icons/mysql.svg" height="50" />
-</p>
-
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## 📊 GitHub Stats
 <div align="center">
