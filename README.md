@@ -18,12 +18,17 @@ Hello! I’m Ahmad Imtiyaz Najih, a 5th-semester student at Universitas Veteran 
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmad-imtiyaz&theme=radical" height="150px" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=ahmad-imtiyaz&theme=radical" height="150px" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-imtiyaz&theme=radical&layout=compact" height="150px" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmad-imtiyaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160px" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=ahmad-imtiyaz&theme=radical&hide_border=false" height="160px" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-imtiyaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160px" />
+
 </div>
 
 
