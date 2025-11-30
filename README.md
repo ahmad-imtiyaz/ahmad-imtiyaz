@@ -10,34 +10,30 @@ Hello! I’m Ahmad Imtiyaz Najih, a 5th-semester student at Universitas Veteran 
 <div style="display: flex; align-items: center; gap: 20px;">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
 
 </div>
 
 
-## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ahmad-imtiyaz&show_icons=true&theme=radical&hide_border=true" 
-    height="160"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmad-imtiyaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160px" />
 
-  <img 
-    src="https://streak-stats.demolab.com/?user=ahmad-imtiyaz&theme=radical&hide_border=true" 
-    height="160"
-  />
+<br/>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-imtiyaz&layout=compact&theme=radical&hide_border=true" 
-    height="160"
-  />
+<img src="https://nirzak-streak-stats.vercel.app/?user=ahmad-imtiyaz&theme=radical&hide_border=false" height="160px" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-imtiyaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160px" />
 
 </div>
+
 
 
 ---
