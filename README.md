@@ -12,12 +12,7 @@ Hello! I’m Ahmad Imtiyaz Najih, a 5th-semester student at Universitas Veteran 
 <div align="center">
 
 <!-- Total Commits, Contributions, PRs, Issues -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=ahmad-imtiyaz&theme=radical&show_icons=true&count_private=true&hide_border=false"
-  height="160px"
-/>
-
-<br/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmad-imtiyaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160px" /> <br/>
 
 <!-- GitHub Streak -->
 <img 
@@ -28,12 +23,7 @@ Hello! I’m Ahmad Imtiyaz Najih, a 5th-semester student at Universitas Veteran 
 <br/>
 
 <!-- Top Languages -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-imtiyaz&theme=radical&layout=compact&hide_border=false"
-  height="160px"
-/>
-
-</div>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ahmad-imtiyaz&theme=radical&layout=compact&hide_border=false" height="160px" /> </div>
 
 
 
