@@ -16,7 +16,7 @@ Hello! I’m Ahmad Imtiyaz Najih, a 5th-semester student at Universitas Veteran 
 
 <!-- GitHub Streak -->
 <img 
-  src="https://github-readme-streak-stats-seven.vercel.app?user=ahmad-imtiyaz&theme=radical"
+  src="https://streak-stats.demolab.com?user=ahmad-imtiyaz&theme=radical&hide_border=false"
   height="160"
 />
 
