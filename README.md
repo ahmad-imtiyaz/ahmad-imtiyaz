@@ -63,17 +63,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmad-imtiyaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160px" />
-<br/>
-<img src="https://streak-stats.demolab.com/?user=ahmad-imtiyaz&theme=radical" height="160" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-imtiyaz&theme=radical&layout=compact&hide_border=false" height="160px" />
-</div>
-
----
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahmad-imtiyaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160px" /> <br/> <img src="https://streak-stats.demolab.com/?user=ahmad-imtiyaz&theme=radical" height="160" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-imtiyaz&theme=radical&layout=compact&hide_border=false" height="160px" /> </div>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ahmad-imtiyaz&color=1&style=flat" />
