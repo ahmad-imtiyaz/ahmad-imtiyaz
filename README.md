@@ -25,20 +25,18 @@
 <a href="https://www.linkedin.com/in/ahmad-imtiyaz-3531532b5/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
-<a href="https://pinterest.com/imtiyaznajih" target="_blank">
-  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@imtiyaznajih9686" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
-</a>
-<a href="mailto:imtiyaznajih8@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
 </p>
 
 ---
 
 ### 💻 Tech Stack
+
+**Frontend**
+<p align="left">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</p>
 
 **Backend**
 <p align="left">
@@ -68,19 +66,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmad-imtiyaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmad-imtiyaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160px" />
 <br/>
-<img src="https://streak-stats.vercel.app/?user=ahmad-imtiyaz&theme=radical" height="160" />
+<img src="https://streak-stats.demolab.com/?user=ahmad-imtiyaz&theme=radical" height="160" />
 <br/>
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ahmad-imtiyaz&theme=radical&layout=compact&hide_border=false" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-imtiyaz&theme=radical&layout=compact&hide_border=false" height="160px" />
 </div>
 
 ---
 
 <p align="center">
-<a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=ahmad-imtiyaz&icon=0&color=1" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=ahmad-imtiyaz&color=1&style=flat" />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
