@@ -4,14 +4,14 @@
 
 <h1 align="center">Hi 👋, I'm Ahmad Imtiyaz Najih</h1>
 
-<h3 align="center">Backend-leaning Full Stack Developer</h3>
+<h3 align="center">Mobile · Web · Full Stack Developer — and a proud Vibe Coder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=500&lines=Just+Ship+It.;Laravel+%7C+Flutter+%7C+AI+Agents;Always+learning%2C+always+shipping" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=500&lines=Just+Ship+It.;Flutter+%7C+React+%7C+Laravel;Vibe+coding+with+AI+agents" />
 </p>
 
 <p align="center">
-  Building scalable backend systems and shipping faster with AI-assisted coding.
+  Building mobile apps and web products end to end, and shipping faster with AI coding agents.
 </p>
 
 ---
@@ -20,13 +20,15 @@
 
 <img align="right" width="260" src="./assets/banner-potrait.gif" />
 
-**Imtiyaz**, here — a 7th-semester student at **Universitas Veteran Semarang**, focused on backend development.
+**Yazna**, here — a 7th-semester student at **Universitas Veteran Semarang** who doesn't stick to just one side of the stack.
 
-I enjoy building scalable, maintainable systems with **Laravel & PHP**, and I care about clean architecture and clean code.
+📱 **Mobile:** building Android apps with **Flutter**<br/>
+🌐 **Frontend:** crafting web interfaces with **React**<br/>
+🛠️ **Backend / Full Stack:** building solid systems with **Laravel**
 
-Currently, I'm expanding into **mobile development with Flutter**, while experimenting with **vibe coding** — using AI coding agents to speed up my workflow.
+These days I'm a **vibe coder** — most of my work happens alongside AI coding agents like **Claude Code**, **Pi Agent**, and **OpenCode**, so I can spend less time on boilerplate and more time shipping.
 
-My goal is simple: write clean code, ship reliable software, and keep growing into an engineer who builds things that last.
+My goal is simple: turn ideas into working products, fast, and keep growing along the way.
 
 <br clear="right" />
 
@@ -46,12 +48,19 @@ My goal is simple: write clean code, ship reliable software, and keep growing in
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,react,flutter,dart&perline=8" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react,js,ts,html,css&perline=8" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,git,github,vscode,postman&perline=8" />
   </a>
+</p>
+
+<p align="center">
+  <b>🤖 Vibe Coding Toolkit</b><br/><br/>
+  <img src="https://img.shields.io/badge/Claude%20Code-161B22?style=for-the-badge&logo=claude&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Pi%20Agent-161B22?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-161B22?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
