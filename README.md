@@ -1,80 +1,78 @@
+<!-- Banner: ganti URL ini dengan GIF/gambar banner kamu sendiri (mis. ./assets/banner.gif) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:30363d&height=200&section=header&text=Ahmad%20Imtiyaz&fontSize=50&fontColor=c9d1d9&animation=fadeIn" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ahmad Imtiyaz Najih</h1>
-<h3 align="center">Backend-leaning Full Stack Developer | Exploring Mobile & AI-Assisted Coding</h3>
+
+<h3 align="center">Backend-leaning Full Stack Developer</h3>
 
 <p align="center">
-  🎓 7th-semester student at Universitas Veteran Semarang <br/>
-  💻 Passionate about Laravel, PHP, and building scalable backend systems <br/>
-  📱 Currently expanding into mobile development with Flutter <br/>
-  🤖 Actively exploring <b>vibe coding</b> — building faster with AI coding agents <br/>
-  🌱 Always learning, always shipping
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=500&lines=Just+Ship+It.;Laravel+%7C+Flutter+%7C+AI+Agents;Always+learning%2C+always+shipping" />
 </p>
-
----
-
-### 🚀 What I'm Up To
-- 🔨 Strengthening backend architecture & clean code practices
-- 📱 Learning Flutter for cross-platform mobile development
-- 🤖 Experimenting with AI coding agents to speed up my development workflow
-- 🎓 Heading into semester 7 — gearing up for bigger projects ahead
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ahmad-imtiyaz-3531532b5/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-</a>
-</p>
-
----
-
-### 💻 Tech Stack
-
-**Frontend**
-<p align="left">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-</p>
-
-**Backend**
-<p align="left">
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-</p>
-
-**Mobile**
-<p align="left">
-<img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
-**Database**
-<p align="left">
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-**Workflow**
-<p align="left">
-<img src="https://img.shields.io/badge/Vibe%20Coding-6C63FF.svg?style=for-the-badge&logo=sparkles&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Coding%20Agent-000000.svg?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=ahmad-imtiyaz&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160px" />
-<br/>
-<img src="https://streak-stats.demolab.com/?user=ahmad-imtiyaz&theme=radical" height="160" />
-<br/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmad-imtiyaz&theme=radical&layout=compact&hide_border=false" height="160px" />
-</div>
-
----
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ahmad-imtiyaz.ahmad-imtiyaz" />
+  Building scalable backend systems and shipping faster with AI-assisted coding.
+</p>
+
+---
+
+<h2 align="center">🚀 About Me</h2>
+
+<!-- Gambar kanan: ganti dengan GIF/pixel-art kamu sendiri (mis. ./assets/about.gif) -->
+<img align="right" width="260" src="https://github.com/ahmad-imtiyaz.png" />
+
+**Imtiyaz**, here — a 7th-semester student at **Universitas Veteran Semarang**, focused on backend development.
+
+I enjoy building scalable, maintainable systems with **Laravel & PHP**, and I care about clean architecture and clean code.
+
+Currently, I'm expanding into **mobile development with Flutter**, while experimenting with **vibe coding** — using AI coding agents to speed up my workflow.
+
+My goal is simple: write clean code, ship reliable software, and keep growing into an engineer who builds things that last.
+
+<br clear="right" />
+
+---
+
+<h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/ahmad-imtiyaz" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="44" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ahmad-imtiyaz-3531532b5/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="44" /></a>&nbsp;
+  <!-- Ganti EMAIL_KAMU dengan email yang ingin ditampilkan publik, atau hapus baris ini -->
+  <a href="mailto:EMAIL_KAMU" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="44" /></a>
+</p>
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,react,flutter,dart&perline=8" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,postman&perline=8" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ahmad-imtiyaz&theme=dark&hide_border=true&background=161B22&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" />
+</p>
+
+---
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-imtiyaz&bg_color=161b22&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&radius=8" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmad-imtiyaz.ahmad-imtiyaz" />
 </p>
