@@ -76,22 +76,12 @@ My goal is simple: turn ideas into working products, fast, and keep growing alon
   <img src="https://streak-stats.demolab.com/?user=ahmad-imtiyaz&theme=dark&hide_border=true&background=161B22&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmad-imtiyaz&theme=github_dark" width="100%" />
-</p>
+---
 
 <h2 align="center">🧊 3D Contributions</h2>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
-</p>
-
----
-
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-imtiyaz&bg_color=161b22&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&radius=8" width="100%" />
 </p>
 
 ---
