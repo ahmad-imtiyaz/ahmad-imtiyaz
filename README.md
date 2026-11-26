@@ -68,7 +68,22 @@ My goal is simple: turn ideas into working products, fast, and keep growing alon
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ahmad-imtiyaz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=161B22&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmad-imtiyaz&layout=compact&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9" height="170" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=ahmad-imtiyaz&theme=dark&hide_border=true&background=161B22&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmad-imtiyaz&theme=github_dark" width="100%" />
+</p>
+
+<h2 align="center">🏆 Trophies</h2>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=ahmad-imtiyaz&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" />
 </p>
 
 ---
