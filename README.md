@@ -80,10 +80,10 @@ My goal is simple: turn ideas into working products, fast, and keep growing alon
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmad-imtiyaz&theme=github_dark" width="100%" />
 </p>
 
-<h2 align="center">🏆 Trophies</h2>
+<h2 align="center">🧊 3D Contributions</h2>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=ahmad-imtiyaz&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
 </p>
 
 ---
@@ -92,6 +92,18 @@ My goal is simple: turn ideas into working products, fast, and keep growing alon
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-imtiyaz&bg_color=161b22&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&radius=8" width="100%" />
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-imtiyaz/ahmad-imtiyaz/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad-imtiyaz/ahmad-imtiyaz/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/ahmad-imtiyaz/ahmad-imtiyaz/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
