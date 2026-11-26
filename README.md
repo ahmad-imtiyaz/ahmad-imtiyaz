@@ -1,6 +1,5 @@
-<!-- Banner: ganti URL ini dengan GIF/gambar banner kamu sendiri (mis. ./assets/banner.gif) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:30363d&height=200&section=header&text=Ahmad%20Imtiyaz&fontSize=50&fontColor=c9d1d9&animation=fadeIn" width="100%" />
+  <img src="./assets/banner-landscape.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ahmad Imtiyaz Najih</h1>
@@ -19,8 +18,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<!-- Gambar kanan: ganti dengan GIF/pixel-art kamu sendiri (mis. ./assets/about.gif) -->
-<img align="right" width="260" src="https://github.com/ahmad-imtiyaz.png" />
+<img align="right" width="260" src="./assets/banner-potrait.gif" />
 
 **Imtiyaz**, here — a 7th-semester student at **Universitas Veteran Semarang**, focused on backend development.
 
@@ -39,8 +37,7 @@ My goal is simple: write clean code, ship reliable software, and keep growing in
 <p align="center">
   <a href="https://github.com/ahmad-imtiyaz" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="44" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/ahmad-imtiyaz-3531532b5/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="44" /></a>&nbsp;
-  <!-- Ganti EMAIL_KAMU dengan email yang ingin ditampilkan publik, atau hapus baris ini -->
-  <a href="mailto:EMAIL_KAMU" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="44" /></a>
+  <a href="mailto:imtiyaznajih8@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="44" /></a>
 </p>
 
 ---
