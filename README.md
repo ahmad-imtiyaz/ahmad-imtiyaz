@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-landscape.gif" width="100%" />
+  <img src="./assets/banner-cat.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ahmad Imtiyaz Najih</h1>
