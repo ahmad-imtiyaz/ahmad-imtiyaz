@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./assets/banner-cat.gif" width="100%" />
+  <img src="./assets/banner-cat-text.gif" alt="Hi, I'm Ahmad Imtiyaz Najih" width="100%" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Ahmad Imtiyaz Najih</h1>
 
 <h3 align="center">Mobile · Web · Full Stack Developer — and a proud Vibe Coder</h3>
 
@@ -74,14 +72,6 @@ My goal is simple: turn ideas into working products, fast, and keep growing alon
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ahmad-imtiyaz&theme=dark&hide_border=true&background=161B22&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" />
-</p>
-
----
-
-<h2 align="center">🧊 3D Contributions</h2>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
 </p>
 
 ---
